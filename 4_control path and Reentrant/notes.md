@@ -5,7 +5,7 @@
 
  Essentially, it navigates the system through certain instructions to cater to different system-level functionalities.
 
-#### 💼 Reentrant Kernels in Linux 
+#### 💼 Reentrant Kernels in Linux (run multiple processes smoothly)
 - **Reentrant Kernels**: Linux boasts a reentrant kernel, meaning it can 
     - smoothly manage **numerous processes** executing in Kernel Mode simultaneously.
 
